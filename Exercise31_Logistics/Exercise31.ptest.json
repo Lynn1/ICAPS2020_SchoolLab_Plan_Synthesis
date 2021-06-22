@@ -1,0 +1,9 @@
+{
+    "defaultDomain": "truckdomain.pddl",
+    "defaultOptions": "",
+    "cases": [
+        {
+            "problem": "truckproblem.pddl"
+        }
+    ]
+}
