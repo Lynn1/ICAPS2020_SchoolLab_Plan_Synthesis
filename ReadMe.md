@@ -14,7 +14,7 @@
 
 ## Exercise 4.1
 <<<<<<< HEAD
-![Exercise 4.1](Exercise41_TemporalNumeric\Exercise41.png)
+![Exercise 4.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise41_TemporalNumeric/Exercise41.png)
 ### Result Plan of Exercise 4.1 (planner:SGPlan6)
 ![Result Plan of Exercise 4.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise41_TemporalNumeric/result/Exercise41_SGPlan6.png)
 ### Result Plan of Exercise 4.1 (planner:Colin-clp)
