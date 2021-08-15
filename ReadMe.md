@@ -14,5 +14,7 @@
 
 ## Exercise 4.1
 ![Exercise 4.1](Exercise41_TemporalNumeric\Exercise41.png)
-### Result Plan of Exercise 4.1
-![Result Plan of Exercise 3.1](Exercise41_TemporalNumeric\result\Exercise41_plan_SGPlan5.png)
+### Result Plan of Exercise 4.1 (planner:SGPlan6)
+![Result Plan of Exercise 4.1](Exercise41_TemporalNumeric\result\Exercise41_SGPlan6.png)
+### Result Plan of Exercise 4.1 (planner:Colin-clp)
+![Result Plan of Exercise 4.1](Exercise41_TemporalNumeric\result\Exercise41_colin-clp.png)

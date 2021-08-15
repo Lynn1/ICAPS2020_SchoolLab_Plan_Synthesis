@@ -1,9 +1,0 @@
-{
-    "defaultDomain": "TNdomain.pddl",
-    "defaultOptions": "",
-    "cases": [
-        {
-            "problem": "TNproblem.pddl"
-        }
-    ]
-}

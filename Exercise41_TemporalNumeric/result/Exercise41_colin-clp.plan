@@ -1,0 +1,32 @@
+;;!domain: TN_logistics
+;;!problem: problem_TN_logistics
+; States evaluated: 50
+; Cost: 1690.026
+; Time 0.07
+0.000: (walk dr1 wp4 wp9)  [150.000]
+150.001: (board_vehicle t2 dr1 wp9)  [10.000]
+160.002: (drive_truck t2 dr1 wp9 wp4)  [75.000]
+235.003: (drive_truck t2 dr1 wp4 wp1)  [75.000]
+310.004: (drive_truck t2 dr1 wp1 wp5)  [100.000]
+410.005: (load_package t2 pack3 wp5)  [10.000]
+420.006: (drive_truck t2 dr1 wp5 wp1)  [100.000]
+520.007: (drive_truck t2 dr1 wp1 wp2)  [100.000]
+620.008: (load_package t2 pack1 wp2)  [10.000]
+630.009: (drive_truck t2 dr1 wp2 wp3)  [100.000]
+730.010: (load_package t2 pack2 wp3)  [10.000]
+740.011: (drive_truck t2 dr1 wp3 wp2)  [100.000]
+840.012: (unload_package t2 pack2 wp2)  [10.000]
+850.013: (drive_truck t2 dr1 wp2 wp1)  [100.000]
+950.014: (drive_truck t2 dr1 wp1 wp4)  [75.000]
+1025.015: (drive_truck t2 dr1 wp4 wp9)  [75.000]
+1100.016: (unload_package t2 pack3 wp9)  [10.000]
+1100.017: (unload_package t2 pack1 wp9)  [10.000]
+1110.018: (drive_truck t2 dr1 wp9 wp10)  [100.000]
+1210.019: (drive_truck t2 dr1 wp10 wp11)  [100.000]
+1310.020: (load_package t2 pack4 wp11)  [10.000]
+1320.021: (drive_truck t2 dr1 wp11 wp8)  [75.000]
+1395.022: (drive_truck t2 dr1 wp8 wp3)  [75.000]
+1470.023: (drive_truck t2 dr1 wp3 wp2)  [100.000]
+1570.024: (unload_package t2 pack4 wp2)  [10.000]
+1580.025: (drive_truck t2 dr1 wp2 wp1)  [100.000]
+1680.026: (disembark_vehicle t2 dr1 wp1)  [10.000]
