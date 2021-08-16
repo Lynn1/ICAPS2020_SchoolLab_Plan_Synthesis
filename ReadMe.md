@@ -13,9 +13,13 @@
 ![Result Plan of Exercise 3.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise31_Logistics/result/Exercise31_plan.png)
 
 ## Exercise 4.1
-<<<<<<< HEAD
 ![Exercise 4.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise41_TemporalNumeric/Exercise41.png)
 ### Result Plan of Exercise 4.1 (planner:SGPlan6)
 ![Result Plan of Exercise 4.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise41_TemporalNumeric/result/Exercise41_SGPlan6.png)
 ### Result Plan of Exercise 4.1 (planner:Colin-clp)
 ![Result Plan of Exercise 4.1](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise41_TemporalNumeric/result/Exercise41_colin-clp.png)
+
+## Exercise 4.2
+![Exercise 4.2](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise42_PlaneBoat/Exercise42.png)
+### Result Plan of Exercise 4.2 (planner:SGPlan6)
+![Result Plan of Exercise 4.2](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise42_PlaneBoat/result/Exercise42_SGPlan6.png)
