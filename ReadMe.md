@@ -23,3 +23,8 @@
 ![Exercise 4.2](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise42_PlaneBoat/Exercise42.png)
 ### Result Plan of Exercise 4.2 (planner:SGPlan6)
 ![Result Plan of Exercise 4.2](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise42_PlaneBoat/result/Exercise42_SGPlan6.png)
+
+## Exercise 4.3
+![Exercise 4.3](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise43_Deadlines/Exercise43.png)
+### Result Plan of Exercise 4.3 (planner:SGPlan6)
+![Result Plan of Exercise 4.3](https://github.com/Lynn1/ICAPS2020_SchoolLab_Plan_Synthesis/blob/main/Exercise43_Deadlines/result/Exercise43_SGPlan6.png)
