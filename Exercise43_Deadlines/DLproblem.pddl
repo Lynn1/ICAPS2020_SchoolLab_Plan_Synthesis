@@ -117,9 +117,7 @@
         (pos pack2 lighthouse)
         (pos pack3 wp9)
         (pos pack4 wp2)        
-        ; (at 2500 (pos pack1 wp9))
-        ; (at 2500 (pos pack2 lighthouse))
-        ; (at 2500 (pos pack3 wp9))
-        ; (at 2500 (pos pack4 wp2))
     ))
+
+    (:metric minimize (total-time))
 )

@@ -1,5 +1,5 @@
 (define (domain deadlines)
-(:requirements :strips :typing :durative-actions :fluents :timed-initial-literals)
+(:requirements :strips :typing :durative-actions :fluents :timed-initial-literals )
     
     (:types 
         location locatable - object
